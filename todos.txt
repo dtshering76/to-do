@@ -1,5 +1,3 @@
-Edited bookClean The House
-Throw The Trash
 Get The Car
 Clean The python Code
 Work In The Gym
@@ -7,6 +5,3 @@ play the ballCook The Food
 Clean the house
 Eat The Food
 Master Python
-hello
-hey
-add lastly
